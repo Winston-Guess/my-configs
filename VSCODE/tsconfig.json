@@ -1,0 +1,24 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"module": "none",
+		"sourceMap": true,
+		"target": "es5"
+	},
+	"exclude": [
+		"node_modules",
+		".gitmodules",
+        ".vs",
+        "bin",
+        "img/*.*",
+        "img/icons-opt",
+        "jsout",
+        "obj",
+        "server",
+        "web.*",
+        "www.*",
+        "**/*.js",
+        "**/*.min.js",
+        "**/*.js.map"
+	]
+}
